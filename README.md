@@ -7,7 +7,7 @@ Police Booking System is a Kenyan System that automate Police records easily;
    >>> This automation will see a swift Processes in Local Police Station.
 >   >> 
           
-          *An Amazing  System that will revolutionise the Police Department*
+        **An Amazing  System that will revolutionise the Police Department**
           
 
 
