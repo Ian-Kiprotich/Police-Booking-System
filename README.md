@@ -1,7 +1,7 @@
 # Police-Booking-System.
 
 
-# Case Study - Eldoret Central Police Station 
+# Case Study - Eldoret Central Police Station. 
 
     Police Booking System is a Kenyan System that automate Police records easily;
 
